@@ -1,5 +1,6 @@
-## Criar o Banco de Dados
+## Criar o Banco de Dados MYSQL
 
+Você deve rodar esse script para criar o banco de dados e a tabela task
 ```
 CREATE DATABASE tudolist;
 
